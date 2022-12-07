@@ -13,8 +13,8 @@ User can find and choose families with different options (ex. with pets or not) 
 ### 
 
 <div class="d-flex">
-  <img width="500" alt="image" src="https://user-images.githubusercontent.com/114731843/205564592-634b9923-fd37-43f4-b65b-908ea4863f70.png">
-  <img width="500" alt="image" src="https://user-images.githubusercontent.com/114731843/205575443-10688763-4bf4-483c-b1af-c84a3a07def9.png">
+  <img width="350" alt="image" src="https://user-images.githubusercontent.com/114731843/205564592-634b9923-fd37-43f4-b65b-908ea4863f70.png">
+  <img width="350" alt="image" src="https://user-images.githubusercontent.com/114731843/205575443-10688763-4bf4-483c-b1af-c84a3a07def9.png">
 </div>
 
 ### 
@@ -24,8 +24,8 @@ After host accept or decline booking status will change for trip.
 ### 
 
 <div class="d-flex">
-  <img width="500" alt="image" src="https://user-images.githubusercontent.com/114731843/205573286-d0f7ae78-d5f7-4afb-92c6-9a748bac0d92.png">
-  <img width="500" height="275" alt="image" src="https://user-images.githubusercontent.com/114731843/205576207-a541613e-6edf-43e7-bf3e-51dc85d3b5e9.png">
+  <img width="350" alt="image" src="https://user-images.githubusercontent.com/114731843/205573286-d0f7ae78-d5f7-4afb-92c6-9a748bac0d92.png">
+  <img width="350" height="200" alt="image" src="https://user-images.githubusercontent.com/114731843/205576207-a541613e-6edf-43e7-bf3e-51dc85d3b5e9.png">
 </div>
 
 ### 
